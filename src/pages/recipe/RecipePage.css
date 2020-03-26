@@ -1,0 +1,18 @@
+div.title-page {
+    position: relative;
+    margin-top: 15px;
+}
+
+span.back-arrow {
+    display: inline-flex;
+    align-items: center;
+
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+
+    margin-left: 20px;
+
+    font-size: 15px;
+    font-weight: 600;
+}

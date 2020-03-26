@@ -1,0 +1,45 @@
+div.btn-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.alert {
+    color: #F58324;
+    font-weight: 700;
+}
+
+a.btn-delete,
+a.btn-edit {
+    width: 100px;
+    padding: 10px;
+
+    background-color: #F58324;
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+
+    font-size: 16px;
+    font-weight: 600;
+
+    border: 0;
+}
+
+button.modal-action {
+    color: #F58324;
+}
+
+div.modal-content {
+    text-align: center;
+}
+
+div.modal-footer {
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+div.modal-footer a {
+    font-size: 14px;
+    font-weight: 600;
+    color: #F58324;
+}

@@ -1,0 +1,43 @@
+div.title-page {
+    background-color: #ffffff;
+}
+
+div.title-page h6.title {
+    color: #F58324;
+    padding: 20px;
+    font-weight: bold;
+}
+
+div.col {
+    float: none;
+    margin: 50px auto;
+}
+
+div.card-form-login {
+    border-radius: 10px;
+    padding: 35px 35px;
+}
+
+button.btn-enter {
+    margin-top: 20px;
+    padding: 10px 30px;
+
+    border: 0;
+    border-radius: 10px;
+
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+    background-color: #F58324;
+
+    cursor: pointer;
+
+    justify-content: end;
+}
+
+button.btn-enter:hover {
+    background-color: #267D9A;
+}
+
